@@ -1,0 +1,5 @@
+{
+  "name": "Hindi Image Generator",
+  "description": "An application to generate beautiful images with custom Hindi text overlaid. Users can specify a prompt for the background image and the Hindi text to be written on it.",
+  "requestFramePermissions": []
+}
